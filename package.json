@@ -1,0 +1,25 @@
+{
+  "name": "ReactApp",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "deploy": "firebase deploy",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5",
+    "firebase": "^10.11.1",
+    "formik": "^2.4.6",
+    "react-router-dom": "^6.23.0",
+    "yup": "^1.4.0"
+  },
+  "devDependencies": {
+    "react-scripts": "^5.0.1"
+  }
+}
